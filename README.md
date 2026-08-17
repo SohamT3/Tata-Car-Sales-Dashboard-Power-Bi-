@@ -131,6 +131,17 @@ Open the ".pbix" file using Microsoft Power BI Desktop to explore the interactiv
 4. Use the available filters and slicers to explore the data.
 5. Interact with the visualizations to analyze different business dimensions.
 
+🖼️ Dashboard Preview
+
+📊 Executive View  
+![Executive View](./Executive%20view.png)
+
+🗺️ Map  
+![Map](./Map.png)
+
+👥 Customer View  
+![Customer View](./Customer%20view.png)
+
 👨‍💻 Author
 
 Soham Tanavade
@@ -140,3 +151,4 @@ This project was created as part of a Data Analytics / Power BI portfolio projec
 ---
 
 ⭐ If you found this project useful, feel free to explore the dashboard and repository.
+
